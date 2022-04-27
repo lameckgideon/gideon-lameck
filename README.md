@@ -6,7 +6,7 @@ This refers to the running of both old information system and the new one at the
 The output from both system are compered and difference is reconciled. The advantage of this conversion is that it gives a high degree of protection to the organization from the failure in the new system and has gained a wide spread popularity.<br/>
 The disadvantage will be the cost of associated with the duplicating facilities and personnel to maintain the de system. This conversion is opposite of direct conversion.<br/>
 In parallel conversion a target data should set to indicate when this conversion can be withdrawn and the new system will operate on its own. If the different occur between the old and new system, it should be verified with the same input to make sure of the transaction.<br/>
-<h6>Direct installation<h6/>
+<h6>Direct installation</h6>
 This refer to changing over from the old information system to the new one by turning off the old system when the new system is turned on. This conversion method is only used when it is not feasible to operate separate system at the same time. The design of the new system is complete different from that of the old system, that is the new system can either be small or simple as compered to the design of the old system.  Any data and training must be done before the installation.<br/>
  <h6>Single location (pilot) installation.</h6>
 This involves the installation of a new developed information system at one site and use the experience to decide if and how the new system should be deployed throughout the organization. For example a system can be installed at first at one sale region and if is proved successful, the same can be installed to another sale region and so on.<br/>
