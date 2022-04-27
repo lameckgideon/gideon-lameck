@@ -1,4 +1,4 @@
- #####Describe four (4) approaches of installation, explain how they are applied and choose any existing system at Mzumbe University and select    the best way of installation.<br/>
+ ##Describe four (4) approaches of installation, explain how they are applied and choose any existing system at Mzumbe University and select    the best way of installation.<br/>
 Installation, this is the among of the implementation phase of a system, to which is the process of changing from the current information system to the new one. It involves building files and databases, converting relevant data from one or more old system to the new system and training system users. It where the equipment, software, hardware or any other computer program is put into a correct position and made ready to use.
 The project team or analyst can apply four approaches to move from the old system to the new developed system as follows;<br/>
 Parallel installation 
